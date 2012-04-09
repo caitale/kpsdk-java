@@ -1,8 +1,13 @@
 ==关于KPSDK==
-kpsdk是支持快盘开放API的java版SDK。关于快盘开放平台更多信息可以看 [http://www.kuaipan.cn/developers/ 这里]
+kpsdk是支持快盘开放API的java版SDK。
+关于快盘开放平台更多信息可以看 [http://www.kuaipan.cn/developers/ 这里]
 
-kpsdk是基于scribe修改而来，使之适应快盘API，让API的调用更简单方便。关于scribe的更多信息可以看[https://github.com/Arthraim/scribe-java scribe主页 ]
+kpsdk是基于scribe修改而来，使之适应快盘API，让API的调用更简单方便。
+关于scribe的更多信息可以看[https://github.com/Arthraim/scribe-java scribe主页 ]
 
-scribe依赖于commons-codec，同时kpsdk还用到了httpclient3.1，httpclient依赖于commons-logging，源码中已包含了这些jar包
+scribe依赖于commons-codec，同时kpsdk还用到了httpclient3.1，httpclient依赖于commons-logging，
+源码中已包含了这些jar包
+
 ==Getting started in several minutes==
-花一点点时间看看如何使用kpsdk，请点 [http://code.google.com/p/kpsdk-java/wiki/Readme 这里]
+花一点点时间看看如何使用kpsdk，
+请点 [http://code.google.com/p/kpsdk-java/wiki/Readme 这里]
