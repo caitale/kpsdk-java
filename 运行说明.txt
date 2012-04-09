@@ -1,0 +1,9 @@
+﻿1.请使用jdk 1.6以上版本
+2.需要commons-codec，commons-httpclient，commons-logging的支持，WebContent->WEB-INF->lib目录下已包含这三个jar包
+3.将解压后的工程导入eclipse中
+4.运行前先在src\kp\client\core\KuaipanApi类中设置自己的consumerKey和consumerSecret,
+5.鼠标右击工程->Run As->Run on Server->选择一个Server，如Tomcat
+6.运行后会进入OAuth授权流程，最后获取到access token
+7.对于桌面应用可以运行src\kp\client\test包下的TestToken类，来获取access_token
+8.获取到token和secret后，可以运行src\kp\client\test包下的Test*类来测试API调用，测试的时候将token和secret填入Test*类中的Token
+9.Good luck!
