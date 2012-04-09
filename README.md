@@ -10,4 +10,4 @@ scribe依赖于commons-codec，同时kpsdk还用到了httpclient3.1，httpclient
 
 ##Getting started in several minutes
 花一点点时间看看如何使用kpsdk，
-请点 https://github.com/caitale/kpsdk-java/wiki/how-to-use-kpsdk-java
+请点 https://github.com/caitale/kpsdk-java/wiki/Home--kpsdk%E7%9A%84%E4%BD%BF%E7%94%A8
