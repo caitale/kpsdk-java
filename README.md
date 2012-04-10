@@ -1,6 +1,6 @@
 ##关于KPSDK
 kpsdk是支持快盘开放API的java版SDK。  
-关于快盘开放平台更多信息可以看 http://www.kuaipan.cn/developers/
+关于快盘开放平台更多信息可以看 [这里](http://www.kuaipan.cn/developers/)
 
 kpsdk是基于scribe修改而来，使之适应快盘API，让API的调用更简单方便。   
 关于scribe的更多信息可以看 scribe主页 https://github.com/Arthraim/scribe-java 
